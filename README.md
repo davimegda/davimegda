@@ -34,8 +34,27 @@ Sou apaixonado por transformar dados em insights valiosos. Utilizo **Power BI** 
 ### 🔹 [Exploratory Analysis - Churn](https://github.com/davimegda/Exploratory-Analysis-Churn/tree/main/notebook)
 > This project aims to analyze customer data to understand the main factors driving customer churn. By identifying patterns and trends among customers who are leaving, the goal is to generate actionable insights that can help the company reduce churn and improve customer satisfaction.
 
-### 🔹 [Dashboard de Análise de Vendas](https://github.com/davimegda/Projeto-Dashboard-com-Streamlit/blob/main/README.md)
+### 🔹 [Dashboard de Análise de Vendas](https://github.com/davimegda/Projeto-Dashboard-com-Streamlit)
 > Aplicação web interativa desenvolvida em Python com Streamlit para análise visual e exploração de dados de vendas, utilizando um arquivo JSON como fonte de dados.
+
+### 🔹 [Dashboard Setor Recursos Humanos](https://github.com/davimegda/Projetos-PowerBI/tree/main/Dashboards/DashboardRecursosHumanos)
+> Neste projeto, utilizei o Power BI para analisar dados de Recursos Humanos, criando um dashboard com insights como total de funcionários, tempo médio de experiência, distribuição por gênero, média salarial, funções, disponibilidade para hora extra e nível de envolvimento. Também calculei o percentual de funcionários que devem ser promovidos, com base no tempo desde a última promoção.
+
+### 🔹 [Dashboard E-commerce](https://github.com/davimegda/Projetos-PowerBI/tree/main/Dashboards/DashboardEcommerce)
+> Neste projeto, construí um dashboard interativo para realizar a análise dos principais indicadores de performance de um dataset de e-commerce, com objetivo de fornecer insights estratégicos sobre o desempenho de vendas de uma loja virtual fictícia.
+
+### 🔹 [Dashboard Vendas Globais](https://github.com/davimegda/Projetos-PowerBI/tree/main/Dashboards/DashboardVendasGlobais)
+> Neste projeto, desenvolvi um dashboard interativo com base em um dataset de vendas globais, com o objetivo de fornecer insights estratégicos sobre desempenho de vendas.
+
+### 🔹 [Dashboard Vendas](https://github.com/davimegda/Projetos-PowerBI/tree/main/Dashboards/DashboardVendasLucroCustoKPI)
+> Neste projeto, desenvolvi um dashboard interativo com base em um dataset de vendas, com o objetivo de plotar insights através do desempenho das vendas, margem de lucro, custo e KPI.
+
+### 🔹 [Dashboard Setor Marketing](https://github.com/davimegda/Projetos-PowerBI/tree/main/Dashboards/DashboardMarketing)
+> Nesse projeto, desenvolvi 4 dashboards interativos com foco em entender o perfil dos clientes, seus padrões de compra e a performance das campanhas de marketing.
+
+### 🔹 [Dashboard Setor Comercial](https://github.com/davimegda/Projetos-PowerBI/tree/main/Dashboards/DashboardComercial)
+> Neste projeto, construí diversas visualizações para compreender a performance de vendas de uma empresa fictícia. Durante o processo, trabalhei com recursos interessantes do Power BI, como a Narrativa Inteligente, Principais Influenciadores e Gráfico de Faixas.
+
 
 
 ## 📫 Como me encontrar
