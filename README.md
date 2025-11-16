@@ -28,6 +28,9 @@ Sou apaixonado por transformar dados em insights valiosos. Utilizo **Power BI** 
 
 ## 📈 Últimos de Projetos:
 
+### 🔹[Ecommerce-ETL-Automation](https://github.com/davimegda/Ecommerce-ETL-Automation)
+> Neste projeto, trabalhei no desenvolvimento completo de um banco de dados para um cenário de e-commerce, desde a modelagem inicial até a automação do carregamento de dados. O objetivo foi transformar datasets brutos em uma base estruturada e pronta para análises e operações.
+
 ### 🔹 [Análise de Dados do Airbnb](https://github.com/davimegda/Data-Analysis-Airbnb/tree/main/notebooks)
 > Neste projeto, utilizei o Python e suas principais bibliotecas para manipulação de dados, com o objetivo de realizar uma Análise Exploratória de Dados (EDA) sobre os imóveis disponíveis no Airbnb em Barcelona. Utilizando dados públicos da plataforma, buscamos extrair informações relevantes para entender melhor o mercado de hospedagem da cidade, como tendências de preços, distribuição de tipos de acomodação e padrões de oferta.
 
