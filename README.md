@@ -1,15 +1,9 @@
 <h1 align="center"> Davi Megda Barbosa!</h1>
 <p align="center">
-  🔍 Explorando dados com <strong>Power BI</strong> e <strong>Python</strong> <br>
-  📊 Transformando dados em decisões <br>
-  💻 Estudante e entusiasta de Análise de Dados e Business Intelligence
+  🔍 Apaixonado por Dados 
+  📊 Transformando Dados em Decisões! <br>
+  💻 Estudante e entusiasta de Análise de Dados, Business Intelligence e Engenharia de Dados
 </p>
-
----
-
-## 🚀 Sobre mim
-
-Sou apaixonado por transformar dados em insights valiosos. Utilizo **Power BI** para criar dashboards interativos e **Python** para análise de dados, automações e modelagens estatísticas.
 
 ---
 
