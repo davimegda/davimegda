@@ -27,7 +27,7 @@
 
 ## 📈 Últimos de Projetos:
 
-### 🔹[Ecommerce-ETL-Automation](https://github.com/davimegda/Ecommerce-ETL-Automation)
+### 🔹[Ecommerce-ETL](https://github.com/davimegda/ETL-Ecommerce)
 > Neste projeto, trabalhei no desenvolvimento completo de um banco de dados para um cenário de e-commerce, desde a modelagem inicial até a automação do carregamento de dados. O objetivo foi transformar datasets brutos em uma base estruturada e pronta para análises e operações.
 
 ### 🔹 [Análise de Dados do Airbnb](https://github.com/davimegda/Data-Analysis-Airbnb/tree/main/notebooks)
