@@ -27,6 +27,9 @@
 
 ## 📈 Últimos de Projetos:
 
+### 🔹[Weather-ETL](https://github.com/davimegda/weather_pipeline)
+> Neste projeto, trabalhei desenvolvendo um fluxo ETL (Extract, Transform, Load) em Python, coletando dados de clima da OpenWeather API, processando-os e armazenando-os em um banco de dados PostgreSQL. O pipeline foi orquestrado pelo Apache Airflow, enquanto a infraestrutura do ambiente foi gerenciada via Docker e Docker Compose.
+
 ### 🔹[Ecommerce-ETL](https://github.com/davimegda/ETL-Ecommerce)
 > Neste projeto, trabalhei no desenvolvimento completo de um banco de dados para um cenário de e-commerce, desde a modelagem inicial até a automação do carregamento de dados. O objetivo foi transformar datasets brutos em uma base estruturada e pronta para análises e operações.
 
