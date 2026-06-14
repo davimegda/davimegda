@@ -10,17 +10,24 @@
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="left">
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=000" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas" />
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy" />
-  <img src="https://img.shields.io/badge/-SQL%20Server-4479A1?style=flat&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SSIS-0078D7?style=flat&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Power%20Architect-FF6C37?style=flat" />
-  <img src="https://img.shields.io/badge/-Excel-F4B400?style=flat&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSV-00ADEF?style=flat" />
+  <img src="https://img.shields.io/badge/-PyArrow-60A5FA?style=flat" />
+
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=000" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+
   <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSV-00ADEF?style=flat" />
+  <img src="https://img.shields.io/badge/-Parquet-50C878?style=flat" />
 </div>
 
 ---
